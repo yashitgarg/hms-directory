@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T14:06:54Z",
+  "updatedAt": "2026-10-31T16:42:20Z",
   "hospitals": [
     {
       "code": "yashit-sbx",
       "name": "YashIT Test (sandbox)",
-      "apiBaseUrl": "https://phones-surgery-thereof-crucial.trycloudflare.com",
+      "apiBaseUrl": "https://unlock-royal-emerging-viewpicture.trycloudflare.com",
       "city": "Indore",
       "environment": "sandbox"
     }
