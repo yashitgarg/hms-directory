@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T13:40:22Z",
+  "updatedAt": "2026-10-31T14:06:54Z",
   "hospitals": [
-    { "code": "yashit-sbx", "name": "YashIT Test (sandbox)", "apiBaseUrl": "https://benefits-perception-improvements-greg.trycloudflare.com", "city": "Indore", "environment": "sandbox" }
+    {
+      "code": "yashit-sbx",
+      "name": "YashIT Test (sandbox)",
+      "apiBaseUrl": "https://phones-surgery-thereof-crucial.trycloudflare.com",
+      "city": "Indore",
+      "environment": "sandbox"
+    }
   ]
 }
